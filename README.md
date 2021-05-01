@@ -106,3 +106,17 @@ https://www.youtube.com/watch?v=kqtD5dpn9C8  -Python Tutorial for Beginners [Qui
 Denise Carter-Bennett:
 A lot of what I have used for learning Python has already been listed: Datacamp, JetBrains, etc.
 One other tool I use to learn Python is the Mimo app (available through iOS and Android) - I find this app really handy to reinforce the basics and something I can do on the bus.
+
+Week 7 
+
+Mark David: Five job titles and positions that I'm interested in pursuing 
+
+1. Cybersecurity Lawyer: I am throughly enjoying the information security class and I find the various laws and regulations very intersting and it makes me tick. I would prefer to specialize in this area in the future.
+
+2. Artificial Intelligence Security Specialist: This area seems very interesting to me as I'm interested in AI and how it works in combination with cybersecurity.
+
+3. Digital Forensics Analyst: I like to dig into things and investigate hence this career is of interest to me.
+
+4. Intrusion Detection Analyst: I am interested in the software that is used in this field and the work appeals to me.
+
+5. Data Privacy Officer: This career is appealing to me because of my interest in the legal side of cybersecurity.
